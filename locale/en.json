@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Chat Column Width",
+    "description": "Adds separate Chat column width and Composer width sliders to Settings > General so wide screens use the full space instead of a narrow centered column."
+  }
+}

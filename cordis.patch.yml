@@ -1,0 +1,9 @@
+# dsh-chat-width bundle patch
+#
+# This file is the `dsh.bundle.patch` layer of the published npm package: when
+# the plugin is installed through the official plugin manager, the profile
+# reconciles `dsh.profile.bundles` against installed packages, sees this
+# declaration, and mounts the plugin row. No manual profile edits needed.
+- insert:
+    - id: chat-width
+      name: 'dsh-chat-width'
