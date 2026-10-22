@@ -21,7 +21,7 @@
 // Both widths stay bounded by the live column width, so the layout still adapts to window/sidebar
 // changes without any JS measurement or resize loop.
 window.__ModuleLoader__.load({
-  id: 'dsh-chat-width',
+  id: '@ray666/dsh-chat-width',
   factory(require) {
     const React = require('react');
     const h = React.createElement;

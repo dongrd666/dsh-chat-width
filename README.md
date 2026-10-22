@@ -1,4 +1,4 @@
-# dsh-chat-width
+# @ray666/dsh-chat-width
 
 Separate **Chat column width** and **Composer width** sliders for the DeepSeek Harness Web UI.
 
@@ -40,7 +40,7 @@ Preferences persist in `localStorage` under `dsh-chat-width.contentPx` / `dsh-ch
 ## Install
 
 ```
-dsh plugin --profile <name> add dsh-chat-width
+dsh plugin --profile <name> add @ray666/dsh-chat-width
 ```
 
 or via the in-app plugin manager. Refresh the Web UI afterwards.

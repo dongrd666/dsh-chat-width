@@ -1,4 +1,4 @@
-# dsh-chat-width
+# @ray666/dsh-chat-width
 
 为 DeepSeek Harness Web 界面提供独立的**对话内容宽度**与**输入框宽度**滑块。
 

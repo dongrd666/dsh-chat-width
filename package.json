@@ -1,5 +1,5 @@
 {
-  "name": "dsh-chat-width",
+  "name": "@ray666/dsh-chat-width",
   "version": "1.0.0",
   "description": "Separate Chat column width and Composer width sliders for the DSH Web UI — wide screens stop wasting the middle column.",
   "keywords": [
