@@ -1,5 +1,7 @@
 # @ray666/dsh-chat-width
 
+[简体中文](README_ZH.md) | **English**
+
 Separate **Chat column width** and **Composer width** sliders for the DeepSeek Harness Web UI.
 
 On large screens the stock UI caps the conversation column at 920px, leaving most of the window empty. This plugin adds two independent sliders under **Settings → General**:
